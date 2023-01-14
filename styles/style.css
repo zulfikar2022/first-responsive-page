@@ -171,6 +171,7 @@ hr{
         
 
     main{
+        width: 95%;
         display: grid;
         grid-template-columns: 1fr;
     }
